@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qmarsala
 - 👀 I’m interested in ⛳ 🎮 🖥️
-- 🌱 I’m currently learning about Kafka, and Unity
+- 🌱 I’m currently learning more about the functional paradigm
 
 <!---
 qmarsala/qmarsala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
